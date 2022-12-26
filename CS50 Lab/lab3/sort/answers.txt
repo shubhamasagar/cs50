@@ -1,0 +1,14 @@
+sort1 uses: bubble sort
+
+How do you know?: because the tests on "random5000.txt", "reversed50000.txt" got one
+of the highest time values (O(n²)) and "sorted50000.txt" the lowest value (Ω(n)).
+
+sort2 uses: merge sort
+
+How do you know?: because the tests on "random5000.txt", "reversed50000.txt" obtained the
+smallest time value (O(n log n)) and "sorted50000.txt" the second smallest value (Ω(log n log)).
+
+sort3 uses: selection sort
+
+How do you know?: because the tests on "random5000.txt", "reversed50000.txt" got one
+of the highest time values (O(n²)) and "sorted50000.txt" the highest value (Ω(n²)).
